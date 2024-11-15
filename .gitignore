@@ -1,0 +1,73 @@
+# Environment-specific files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Local dependencies and build files
+bin/
+obj/
+*.log
+
+# Temporary and local configurations
+*.swp
+*.lock
+*.tmp
+*.bak
+*.backup
+*.DS_Store
+*.directory
+
+# Files generated during publish
+publish/
+out/
+
+# Package dependencies
+**/node_modules/
+**/npm-debug.log
+**/yarn-error.log
+
+# Log files
+logs/
+*.log
+*.tlog
+
+# Caches and other temporary files
+*.cache
+*.temp
+*.pid
+*.seed
+
+# Database and configuration files
+*.db
+*.sqlite
+*.sqlite3
+*.pdb
+
+# MacOS specific configurations
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows specific configurations
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Test outputs
+TestResults/
+*.trx
+*.coverage
+
+# Secrets and sensitive files
+secrets.json
+.env
+.env.*
+
+# JetBrains Rider
+.idea/
+*.iml
+*.ipr
+*.iws

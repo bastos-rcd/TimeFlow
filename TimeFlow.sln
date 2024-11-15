@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeFlow.Core", "TimeFlow.Core\TimeFlow.Core.csproj", "{DD8EDC08-9D23-4AD8-827D-535E6CCDDCA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeFlow.Data", "TimeFlow.Data\TimeFlow.Data.csproj", "{DD8C70CB-0CC1-414A-95D3-E87C7B88F778}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeFlow.UI", "TimeFlow.UI\TimeFlow.UI.csproj", "{9F0ED3F9-824F-4EFC-972C-4A444F3A320A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD8EDC08-9D23-4AD8-827D-535E6CCDDCA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD8EDC08-9D23-4AD8-827D-535E6CCDDCA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD8EDC08-9D23-4AD8-827D-535E6CCDDCA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD8EDC08-9D23-4AD8-827D-535E6CCDDCA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD8C70CB-0CC1-414A-95D3-E87C7B88F778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD8C70CB-0CC1-414A-95D3-E87C7B88F778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD8C70CB-0CC1-414A-95D3-E87C7B88F778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD8C70CB-0CC1-414A-95D3-E87C7B88F778}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F0ED3F9-824F-4EFC-972C-4A444F3A320A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F0ED3F9-824F-4EFC-972C-4A444F3A320A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F0ED3F9-824F-4EFC-972C-4A444F3A320A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F0ED3F9-824F-4EFC-972C-4A444F3A320A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
